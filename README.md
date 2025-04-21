@@ -1,1 +1,2 @@
-"# ai-chrome-extension" 
+AI-Chrome Extension using Gemini API for providing summary of articles
+
